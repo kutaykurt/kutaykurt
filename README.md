@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hallo, ich bin Frontend-Entwickler
 
-<!--
-**kutaykurt/kutaykurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich arbeite mit modernen Webtechnologien und entwickle benutzerfreundliche und strukturierte Frontend-Anwendungen.  
+Besonderen Fokus lege ich auf **React**, **TypeScript** und eine saubere Codebasis.
 
-Here are some ideas to get you started:
+## 🛠 Technologien & Werkzeuge
+- React (Hooks, React Router)
+- TypeScript
+- Redux Toolkit
+- HTML • CSS • Tailwind CSS
+- Git & GitHub
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projekte
+Hier erscheinen nach und nach meine eigenen Projekte:
+- Admin-Dashboard (React + TypeScript) — in Arbeit
+
+## 💼 Woran ich aktuell arbeite
+- Aufbau eines professionellen Projekt-Portfolios  
+- Verbesserung meiner Frontend Practices  
+- Erste Beiträge zu Open-Source-Projekten
+
+## 📫 Kontakt
+**E-Mail:** *asimkutaykurt@gmail.com*
