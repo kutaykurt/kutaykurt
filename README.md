@@ -13,9 +13,9 @@ Ich liebe es, komplexe Probleme in elegante, performante Web-Anwendungen zu verw
 
 ### 🏆 Top-Projekte
 
-- **[TogeLink.com](https://github.com/kutaykurt/TogeLink)** - Echtzeit Watch-Party Plattform mit WebSocket-Synchronisation.
-- **[ApplyTracker](https://github.com/kutaykurt/ApplyTracker)** - Minimalistisches Tracking-Tool für Bewerbungsprozesse mit Fokus auf UI/UX.
-- **[Dilyuvam](https://github.com/kutaykurt/Dilyuvam)** - Sprachlern-Plattform mit Redux-Prüfungssystem und Stripe-Integration.
+- **[TogeLink.com](https://togelink.com/)** - Echtzeit Watch-Party Plattform mit WebSocket-Synchronisation.
+- **[ApplyTracker](https://apply-tracker-rho.vercel.app/)** - Minimalistisches Tracking-Tool für Bewerbungsprozesse mit Fokus auf UI/UX.
+- **[Dilyuvam](https://dilyuvam.com/)** - Sprachlern-Plattform mit Redux-Prüfungssystem und Stripe-Integration.
 
 ---
 
