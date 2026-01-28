@@ -1,24 +1,28 @@
-# Hallo, ich bin Frontend-Entwickler
+# Hallo, ich bin Kutay! 👋
 
-Ich arbeite mit modernen Webtechnologien und entwickle benutzerfreundliche und strukturierte Frontend-Anwendungen.  
-Besonderen Fokus lege ich auf **React**, **TypeScript** und eine saubere Codebasis.
+### 🚀 Fullstack-Entwickler | UI/UX Enthusiast | React & TypeScript Experte
 
-## 🛠 Technologien & Werkzeuge
-- React (Hooks, React Router)
-- TypeScript
-- Redux Toolkit
-- HTML • CSS • Tailwind CSS
-- Git & GitHub
-- REST APIs
+Ich liebe es, komplexe Probleme in elegante, performante Web-Anwendungen zu verwandeln. Mein Fokus liegt darauf, durch moderne Tech-Stacks erstklassige Benutzererlebnisse zu schaffen.
 
-## 📂 Projekte
-Hier erscheinen nach und nach meine eigenen Projekte:
-- Admin-Dashboard (React + TypeScript) — in Arbeit
+- 🌍 Standort: Hamburg, Deutschland
+- ⚡ **Aktueller Fokus:** Hochperformante React-Architekturen & Echtzeit-Synchronisation
+- 🛠 **Haupt-Tech-Stack:** React (Next.js), TypeScript, Redux, Node.js, Supabase
+- 🎨 **Design & Tools:** Framer Motion, SASS, CSS-Variablen
 
-## 💼 Woran ich aktuell arbeite
-- Aufbau eines professionellen Projekt-Portfolios  
-- Verbesserung meiner Frontend Practices  
-- Erste Beiträge zu Open-Source-Projekten
+---
 
-## 📫 Kontakt
-**E-Mail:** *asimkutaykurt@gmail.com*
+### 🏆 Top-Projekte
+
+- **[TogeLink.com](https://github.com/kutaykurt/TogeLink)** - Echtzeit Watch-Party Plattform mit WebSocket-Synchronisation.
+- **[ApplyTracker](https://github.com/kutaykurt/ApplyTracker)** - Minimalistisches Tracking-Tool für Bewerbungsprozesse mit Fokus auf UI/UX.
+- **[Dilyuvam](https://github.com/kutaykurt/Dilyuvam)** - Sprachlern-Plattform mit Redux-Prüfungssystem und Stripe-Integration.
+
+---
+
+### 📊 Meine Coding-Statistiken
+![Kutays GitHub Stats](https://github-readme-stats.vercel.app/api?username=kutaykurt&show_icons=true&theme=tokyonight)
+![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=kutaykurt&layout=compact&theme=tokyonight)
+
+---
+
+📫 **So erreichst du mich:** [asimkutaykurt@gmail.com](mailto:asimkutaykurt@gmail.com)
