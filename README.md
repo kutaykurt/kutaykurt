@@ -19,7 +19,7 @@ Ich liebe es, komplexe Probleme in elegante, performante Web-Anwendungen zu verw
 
 ### 📱 [TogeLink.com](https://togelink.com)
 **Plattform für synchronisiertes Videostreaming.**
-- **Highlights:** Social Media Plattform mit echtzeit-Synchronisation via WebSockets, Next.js 15 Integration, globales Player-Management. Eingebautes Chat-System mit Anruf Option und Live-Streaming Möglichkeit.
+- **Highlights:** Social Media Plattform mit echtzeit-Synchronisation via WebSockets, Next.js 15 Integration, globales Videoplayer-Management. Bei der Section "/movies" kann man sich Videos bzw. Filme anschauen. Optional kann man Freunde einladen und zusammen anschauen. Eingebautes Chat-System mit Anruf Option und Live-Streaming Möglichkeit.
 - **Tech:** Next.js, React 19, WebSockets, Supabase.
 
 ### 🔋 [BMW i-Battery Dashboard](https://github.com/kutaykurt/bmw-high-voltage-storages)
