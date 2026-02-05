@@ -27,7 +27,7 @@ Ich liebe es, komplexe Probleme in elegante, performante Web-Anwendungen zu verw
 - **Highlights:** Echtzeit-Telemetrie, 96S Zell-Matrix Visualisierung, Daten-Export für Python/Data-Science Modelle.
 - **Tech:** React 19, Recharts, Framer Motion, Automotive-UI.
 
-### 🎓 [DilYuvam](https://github.com/kutaykurt/DilYuvam)
+### 🎓 [DilYuvam](https://dilyuvam.com/)
 **Interaktive E-Learning-Plattform.**
 - **Highlights:** Integriertes Redux-Prüfungssystem, Stripe-Zahlungsabwicklung, Kurs-Tracking.
 - **Tech:** React, Redux Toolkit, Stripe, Supabase.
